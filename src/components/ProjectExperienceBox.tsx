@@ -62,14 +62,16 @@ export default function ProjectExperienceBox() {
                         >
                           Repository
                         </a>
-                        <a
-                          href={project.demo}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="text-default-light dark:text-default-dark text-small hover:text-highlight-light hover:dark:text-highlight-dark ttransition-all leading-none duration-350 ease-in-out"
-                        >
-                          Demo
-                        </a>
+                        {project.demo && (
+                          <a
+                            href={project.demo}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-default-light dark:text-default-dark text-small hover:text-highlight-light hover:dark:text-highlight-dark ttransition-all leading-none duration-350 ease-in-out"
+                          >
+                            Demo
+                          </a>
+                        )}
                       </div>
                     </div>
                     <p className="text-body text-default-light dark:text-default-dark leading-1.25 transition-all duration-350 ease-in-out">
