@@ -26,16 +26,15 @@
           "AWS",
           "Vite"
         ],
-        "repo": "https://github.com/eternxl-decxdence/chess",
-        "demo": "https://eternxl-decxdence.github.io/chess/"
+        "repo": "https://github.com/eternxl-decxdence/wallet-hunter"
       },
       {
         "name": "Resume Website",
         "logo": "user",
         "description": "Адаптивный, настраиваемый персональный сайт-резюме (React, TypeScript, Tailwind CSS) с динамическим переключением языка и локализацией через JSON. Упор на чистый UI/UX, mobile-first дизайн, сохранение темы и оптимизацию производительности UI.",
         "tags": ["React", "Redux", "Tailwind CSS", "TypeScript", "Vite"],
-        "repo": "https://github.com/eternxl-decxdence/chess",
-        "demo": "https://eternxl-decxdence.github.io/chess/"
+        "repo": "https://github.com/eternxl-decxdence/introduction-site/",
+        "demo": "https://eternxl-decxdence.github.io/introduction-site/"
       }
     ]
   }
