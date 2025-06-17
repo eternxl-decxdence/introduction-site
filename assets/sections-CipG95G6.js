@@ -1,0 +1,1 @@
+const e=[{sectionName:"Навигация",sectionData:[{name:"Обо мне",sectionId:"about-me"},{name:"Контакты",sectionId:"contacts"},{name:"Навыки",sectionId:"hard-skills"},{name:"Языки",sectionId:"languages"},{name:"Проекты",sectionId:"projects"},{name:"Опыт работы",sectionId:"work"},{name:"Образование",sectionId:"education"}]}];export{e as default};
