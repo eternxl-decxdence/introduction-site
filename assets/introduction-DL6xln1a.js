@@ -1,0 +1,5 @@
+const e=[{sectionName:"O mnie",sectionData:[{introduction:`Jestem początkującym full-stack developerem z solidnym doświadczeniem freelancerskim. Aktualnie szukam zespołu, w którym będę mógł szybciej się rozwijać i tworzyć jeszcze ciekawsze projekty. 
+
+ Większość mojej pracy objęta była NDA, ale zdobyłem praktyczne doświadczenie zarówno w frontendzie (React + TypeScript), jak i backendzie (Node.js/Express lub ASP.NET) — tworzyłem responsywne interfejsy, solidne API, a nawet aplikacje desktopowe w Electron.js. 
+
+ Skupiam się na pisaniu czystego, czytelnego kodu i zawsze szukam mądrzejszych rozwiązań. Praca zespołowa, nauka i jakość kodu to moje najważniejsze priorytety.`,jobTitle:"Full Stack Developer",name:"Tymofii Soliar",softSkills:["Agile Mindset","Praktyk GTD","Kreatywny","Samodzielny rozwój","Gracz zespołowy","Elastyczny","Wytrwały","Proaktywny"]}]}];export{e as default};

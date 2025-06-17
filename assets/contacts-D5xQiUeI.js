@@ -1,0 +1,1 @@
+const o=[{sectionName:"Kontakt",sectionData:[{icon:"phone",text:"+48 731 095 799",link:"tel:+48731095799"},{icon:"envelope",text:"sonicsoliar@gmail.com",link:"mailto:sonicsoliar@gmail.com"},{icon:"location",text:"Wrocław, open to remote"},{icon:"clock",text:"UTC+1 (CET)"}]}];export{o as default};
