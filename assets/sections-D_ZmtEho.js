@@ -1,1 +1,0 @@
-const e="",n=[{name:"Обо мне",sectionId:"about-me"},{name:"Контакты",sectionId:"contacts"},{name:"Навыки",sectionId:"hard-skills"},{name:"Языки",sectionId:"languages"},{name:"Проекты",sectionId:"projects"},{name:"Опыт работы",sectionId:"work"},{name:"Образование",sectionId:"education"}],t={sectionName:e,sectionData:n};export{t as default,n as sectionData,e as sectionName};
