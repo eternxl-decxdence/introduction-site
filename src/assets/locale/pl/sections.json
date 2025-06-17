@@ -1,33 +1,35 @@
-{
-  "sectionName": "Навигация",
-  "sectionData": [
-    {
-      "name": "O mnie",
-      "sectionId": "about-me"
-    },
-    {
-      "name": "Kontakt",
-      "sectionId": "contacts"
-    },
-    {
-      "name": "Umiejętności",
-      "sectionId": "hard-skills"
-    },
-    {
-      "name": "Języki",
-      "sectionId": "languages"
-    },
-    {
-      "name": "Doświadczenie projektowe",
-      "sectionId": "projects"
-    },
-    {
-      "name": "Doświadczenie zawodowe",
-      "sectionId": "work"
-    },
-    {
-      "name": "Edukacja",
-      "sectionId": "education"
-    }
-  ]
-}
+[
+  {
+    "sectionName": "Navigacja",
+    "sectionData": [
+      {
+        "name": "O mnie",
+        "sectionId": "about-me"
+      },
+      {
+        "name": "Kontakt",
+        "sectionId": "contacts"
+      },
+      {
+        "name": "Umiejętności",
+        "sectionId": "hard-skills"
+      },
+      {
+        "name": "Języki",
+        "sectionId": "languages"
+      },
+      {
+        "name": "Projekty",
+        "sectionId": "projects"
+      },
+      {
+        "name": "Doświadczenie",
+        "sectionId": "work"
+      },
+      {
+        "name": "Edukacja",
+        "sectionId": "education"
+      }
+    ]
+  }
+]
