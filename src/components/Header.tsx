@@ -10,20 +10,8 @@ export default function Header() {
   function openNavMenu() {
     setIsNavMenuOpen(true);
     setTimeout(() => setIsNavMenuVisible(true), 10);
-    console.log(
-      "open nav, isNav:",
-      isNavMenuOpen,
-      " isVisible:",
-      isNavMenuVisible,
-    );
   }
   function closeNavMenu() {
-    console.log(
-      "closing nav, isNav:",
-      isNavMenuOpen,
-      " isVisible:",
-      isNavMenuVisible,
-    );
     setIsNavMenuVisible(false);
     setTimeout(() => setIsNavMenuOpen(false), 350);
   }
