@@ -1,0 +1,34 @@
+[
+  {
+    "sectionName": "Doświadczenie zawodowe",
+    "sectionData": [
+      {
+        "title": "Freelance Full Stack Developer",
+        "timespan": "2022 – obecnie",
+        "location": "Zdalnie",
+        "description": "Współpracowałem klientami przy małych projektach, głównie w zakresie stron korporacyjnych oraz narzędzi automatyzacji.",
+        "listedHighlights": [
+          "Tworzenie wielu aplikacji SPA przy użyciu React + TypeScript z integracją REST API.",
+          "Implementacja paneli administracyjnych opartych na Node.js (Express.js) oraz MongoDB.",
+          "Integracja zewnętrznych API (Telegram, GitHub) oraz systemów autoryzacji (OAuth 2.0).",
+          "Adaptacja projektów do środowiska desktopowego za pomocą Electron.js.",
+          "Tworzenie wewnętrznych narzędzi w C# do automatyzacji zadań, co zmniejszyło ilość ręcznej pracy po stronie klienta."
+        ]
+      },
+      {
+        "title": "Praktykant Serwisant",
+        "place": "Asplex Sp. z o.o. (obecnie Enfinitec Sp. z o.o.)",
+        "timespan": "28 sty 2021 – 13 maj 2021",
+        "location": "Wrocław, Polska",
+        "description": "Praca w zespole nad konserwacją sprzętu IT oraz procedurami bezpieczeństwa danych w zakładzie odnawiania urządzeń.",
+        "listedHighlights": [
+          "Bezpieczne usuwanie danych z wewnętrznych i zewnętrznych nośników (HDD, SSD, USB, karty SD).",
+          "Tworzenie certyfikowanych raportów z usuwania danych dla klientów.",
+          "Diagnozowanie i testowanie komputerów, urządzeń biurowych i mobilnych przy użyciu licencjonowanego oprogramowania.",
+          "Naprawa komputerów PC i laptopów poprzez wymianę uszkodzonych komponentów sprzętowych (płyty główne, procesory, ekrany itp.).",
+          "Zdobycie praktycznego doświadczenia ze sprzętem IT, procedurami bezpieczeństwa danych i diagnostyką urządzeń."
+        ]
+      }
+    ]
+  }
+]

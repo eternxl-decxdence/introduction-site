@@ -1,0 +1,56 @@
+[
+  {
+    "sectionName": "Hard Skills",
+    "sectionData": [
+      {
+        "name": "Programming languages",
+        "listItems": ["TypeScript, JavaScript (ES6+)", "C#"]
+      },
+      {
+        "name": "Front-end Web Development",
+        "listItems": [
+          "React",
+          "Redux, Context API",
+          "Sass, SCSS",
+          "Tailwind CSS v4",
+          "Bootstrap (basic)",
+          "Material UI, Chakra",
+          "Shadcn UI"
+        ]
+      },
+      {
+        "name": "Back-end Development",
+        "listItems": ["Node.js", "Express.js", "ASP.NET", "MongoDB, SQL"]
+      },
+      {
+        "name": "Desktop Development",
+        "listItems": ["Electron.js", ".NET (WinForms, UWP)"]
+      },
+      {
+        "name": "Version Control",
+        "listItems": ["Git", "GitHub, GitLab"]
+      },
+      {
+        "name": "Dev Tools",
+        "listItems": ["Postman", "React Dev Tools"]
+      },
+      {
+        "name": "Software & API Design",
+        "listItems": ["RESTful APIs", "MVC", "API-first design"]
+      },
+      {
+        "name": "Cloud & Deployment",
+        "listItems": ["AWS (EC2, S3, DocumentDB)", "Vercel", "Docker (basic)"]
+      },
+      {
+        "name": "Theoretical Knowledge",
+        "listItems": [
+          "Data Structures & Algorithms",
+          "Computer Networks (CCNAv7)",
+          "OS Fundamentals",
+          "Concurency & Multithreading"
+        ]
+      }
+    ]
+  }
+]

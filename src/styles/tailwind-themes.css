@@ -1,0 +1,35 @@
+@theme {
+  --spacing: 1rem;
+  --font-montserrat: "Montserrat", sans-serif;
+  --text-heading: 1.5rem;
+  --text-subheading: 1.25rem;
+  --text-body: 0.875rem;
+  --text-list: 1rem;
+  --text-small: 0.75rem;
+  --text-big-svg: 2.25rem;
+  --leading-default: 1.25;
+
+  --color-background-light: #e8f3fe;
+  --color-gradient-light: #a4cefc;
+  --color-gradient-secondary-light: #4b9cf9;
+  --color-effects-light: #1557c0;
+  --color-highlight-light: #13459c;
+  --color-title-light: #0f3375;
+  --color-accent-light: #0052c1;
+  --color-default-light: #000814;
+  --color-tag-light: #e8f3fe;
+
+  --color-background-dark: #1f1c1f;
+  --color-gradient-dark: #40191c;
+  --color-gradient-secondary-dark: #611618;
+  --color-effects-dark: #821415;
+  --color-highlight-dark: #eb1617;
+  --color-title-dark: #c30e0e;
+  --color-accent-dark: #e40b0b;
+  --color-default-dark: #ffe8e8;
+  --color-tag-dark: #ffe8e8;
+
+  --shadow-logo-highlight: 0 0 16px 12px var(--tw-shadow-color);
+}
+
+@custom-variant dark (&:where(.dark, .dark *));

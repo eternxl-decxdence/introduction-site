@@ -1,0 +1,56 @@
+[
+  {
+    "sectionName": "Навички",
+    "sectionData": [
+      {
+        "name": "Мови програмування",
+        "listItems": ["TypeScript, JavaScript (ES6+)", "C#"]
+      },
+      {
+        "name": "Фронтенд-розробка",
+        "listItems": [
+          "React",
+          "Redux, Context API",
+          "Sass, SCSS",
+          "Tailwind CSS v4",
+          "Bootstrap (базово)",
+          "Material UI, Chakra",
+          "Shadcn UI"
+        ]
+      },
+      {
+        "name": "Бекенд-розробка",
+        "listItems": ["Node.js", "Express.js", "ASP.NET", "MongoDB, SQL"]
+      },
+      {
+        "name": "Розробка десктоп-додатків",
+        "listItems": ["Electron.js", ".NET (WinForms, UWP)"]
+      },
+      {
+        "name": "Системи контролю версій",
+        "listItems": ["Git", "GitHub, GitLab"]
+      },
+      {
+        "name": "Інструменти розробки",
+        "listItems": ["Postman", "React Dev Tools"]
+      },
+      {
+        "name": "Проєктування ПЗ та API",
+        "listItems": ["RESTful API", "MVC", "API-first підхід"]
+      },
+      {
+        "name": "Хмара та деплой",
+        "listItems": ["AWS (EC2, S3, DocumentDB)", "Vercel", "Docker (базово)"]
+      },
+      {
+        "name": "Теоретична база",
+        "listItems": [
+          "Структури даних та алгоритми",
+          "Комп'ютерні мережі (CCNAv7)",
+          "Основи операційних систем",
+          "Паралельність та багатопоточність"
+        ]
+      }
+    ]
+  }
+]

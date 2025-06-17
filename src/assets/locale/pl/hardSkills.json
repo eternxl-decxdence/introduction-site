@@ -1,0 +1,60 @@
+[
+  {
+    "sectionName": "Umiejętności",
+    "sectionData": [
+      {
+        "name": "Języki programowania",
+        "listItems": ["TypeScript, JavaScript (ES6+)", "C#"]
+      },
+      {
+        "name": "Front-end development",
+        "listItems": [
+          "React",
+          "Redux, Context API",
+          "Sass, SCSS",
+          "Tailwind CSS v4",
+          "Bootstrap (podstawy)",
+          "Material UI, Chakra",
+          "Shadcn UI"
+        ]
+      },
+      {
+        "name": "Back-end development",
+        "listItems": ["Node.js", "Express.js", "ASP.NET", "MongoDB, SQL"]
+      },
+      {
+        "name": "Aplikacje desktopowe",
+        "listItems": ["Electron.js", ".NET (WinForms, UWP)"]
+      },
+      {
+        "name": "Kontrola wersji",
+        "listItems": ["Git", "GitHub, GitLab"]
+      },
+      {
+        "name": "Narzędzia developerskie",
+        "listItems": ["Postman", "React Dev Tools"]
+      },
+      {
+        "name": "Projektowanie software'u i API",
+        "listItems": ["RESTful API", "MVC", "Podejście API-first"]
+      },
+      {
+        "name": "Chmura i wdrażanie",
+        "listItems": [
+          "AWS (EC2, S3, DocumentDB)",
+          "Vercel",
+          "Docker (podstawy)"
+        ]
+      },
+      {
+        "name": "Podstawy teoretyczne",
+        "listItems": [
+          "Struktury danych i algorytmy",
+          "Sieci komputerowe (CCNAv7)",
+          "Podstawy systemów operacyjnych",
+          "Współbieżność i wielowątkowość"
+        ]
+      }
+    ]
+  }
+]
